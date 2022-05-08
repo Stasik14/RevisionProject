@@ -24,6 +24,15 @@
     <ClCompile Include="Task02.cpp">
       <Filter>Source Files\IntegerNumber</Filter>
     </ClCompile>
+    <ClCompile Include="Task03.cpp">
+      <Filter>Source Files\IntegerNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="Task04.cpp">
+      <Filter>Source Files\IntegerNumber</Filter>
+    </ClCompile>
+    <ClCompile Include="Task05.cpp">
+      <Filter>Source Files\IntegerNumber</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Header.h">
